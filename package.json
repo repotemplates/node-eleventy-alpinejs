@@ -13,6 +13,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-navigation": "^0.3.3",
+    "alpinejs": "^3.10.3",
     "clean-css": "^5.3.1"
   }
 }
